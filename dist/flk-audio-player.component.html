@@ -1,0 +1,5 @@
+<div *skip class="audio-player-wrapper">
+    <audio (ready)="new Plyr($el, this.options)">
+        <source [src]="this.src">
+    </audio>
+</div>

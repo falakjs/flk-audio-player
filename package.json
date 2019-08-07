@@ -1,0 +1,22 @@
+{
+  "name": "flk-audio-player",
+  "version": "1.0.1",
+  "description": "Audio player for Falak framework",
+  "keywords": [
+    "audio",
+    "player",
+    "flk"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "plyr": "^3.5.6"
+  },
+  "author": {
+    "email": "hassanzohdy@gmail.com",
+    "name": "Hasan Zohdy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falakjs/flk-audio-player"
+  }
+}
