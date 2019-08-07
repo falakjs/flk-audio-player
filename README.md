@@ -1,19 +1,28 @@
 # Audio player
 
-This package implements the [plyr](https://github.com/sampotts/plyr)
+This package implements the [plyr](https://github.com/sampotts/plyr) package.
 
 # Installation
 `flk install flk-audio-player`
 
 # Usage
 
-`hello-world.component.js`
+`hello-world.component.html`
 
 ```html
 <flk-audio-player [src]="this.audioFilePath"></flk-audio-player>
 ```
 
 # Attributes
+
+## src
+**name**: `src` | `[src]`
+
+**default**: `N/a`
+
+**required**: `true`
+
+Set the audio player source path.
 
 ## controls
 **name**: `[controls]`
