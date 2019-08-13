@@ -1,6 +1,6 @@
 {
   "name": "flk-audio-player",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Audio player for Falak framework",
   "main": "dist/flk-audio-player.component.js",
   "keywords": [
